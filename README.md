@@ -14,6 +14,7 @@ QuickCommerce is a comprehensive e-commerce platform designed to provide a seaml
 - **Product Details Page**:
   - Displays product information, including price, offers, location, and description.
   - Features a clean, responsive layout to enhance readability.
+  ![ Page Preview](https://github.com/Chanchal-Doijod/Quick-commerce/blob/b6fafa63f3bc8e9d0297af6bcb5a0350783534ea/Screenshot%202024-12-04%20155837.png)
 
 ### 3. Cart Management
 - **Add to Cart**: Users can add products to the cart directly from product detail pages.
