@@ -7,6 +7,7 @@ QuickCommerce is a comprehensive e-commerce platform designed to provide a seaml
 ### 1. Home Page with Dynamic Content
 - The homepage showcases **banners**, **trending products**, and **popular offers** to attract user engagement.
 - Categories like Groceries, Electronics, and others are displayed prominently for easy navigation.
+![Home Page Preview](https://github.com/Chanchal-Doijod/Quick-commerce/blob/a0859467404a5ee659da0c0e22149083418e512a/Screenshot%202024-12-04%20155353.png)
 
 ### 2. Product Browsing and Navigation
 - **Category Navigation**: Users can browse products by category using the navbar.
