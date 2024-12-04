@@ -8,6 +8,7 @@ QuickCommerce is a comprehensive e-commerce platform designed to provide a seaml
 - The homepage showcases **banners**, **trending products**, and **popular offers** to attract user engagement.
 - Categories like Groceries, Electronics, and others are displayed prominently for easy navigation.
 ![Home Page Preview](https://github.com/Chanchal-Doijod/Quick-commerce/blob/a0859467404a5ee659da0c0e22149083418e512a/Screenshot%202024-12-04%20155353.png)
+![Home Page Preview1](https://github.com/Chanchal-Doijod/Quick-commerce/blob/051ca4d453997f34c746be5855f4a9ca99be746c/Screenshot%202024-12-04%20155728.png)
 
 ### 2. Product Browsing and Navigation
 - **Category Navigation**: Users can browse products by category using the navbar.
@@ -15,12 +16,15 @@ QuickCommerce is a comprehensive e-commerce platform designed to provide a seaml
   - Displays product information, including price, offers, location, and description.
   - Features a clean, responsive layout to enhance readability.
   ![ Page Preview](https://github.com/Chanchal-Doijod/Quick-commerce/blob/b6fafa63f3bc8e9d0297af6bcb5a0350783534ea/Screenshot%202024-12-04%20155837.png)
+![product](https://github.com/Chanchal-Doijod/Quick-commerce/blob/051ca4d453997f34c746be5855f4a9ca99be746c/Screenshot%202024-12-04%20155759.png
+)
 
 ### 3. Cart Management
 - **Add to Cart**: Users can add products to the cart directly from product detail pages.
 - **View Cart**:
   - Displays an order summary with product names, quantities, and total price.
   - Enables users to review their selections before proceeding to checkout.
+![cart preview](https://github.com/Chanchal-Doijod/Quick-commerce/blob/051ca4d453997f34c746be5855f4a9ca99be746c/Screenshot%202024-12-04%20155905.png)
 
 ### 4. Responsive and User-Friendly Interface
 - Built with **React.js** and **Material-UI** to ensure a smooth and visually appealing user experience.
