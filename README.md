@@ -33,10 +33,10 @@ QuickCommerce is a comprehensive e-commerce platform designed to provide a seaml
 - **Redux**: For state management to handle cart operations and product data efficiently.
 - **Material-UI**: For modern and responsive UI components.
 
-### Backend (Future Integration)
+### Backend 
 - **Node.js** and **Express.js**: To handle API endpoints and server-side logic.
 
-### Database (Future Integration)
+### Database 
 - **MongoDB** or **MySQL**: For storing product data, user information, and orders.
 
 ---
@@ -54,3 +54,11 @@ Ensure that the following are installed on your system:
    Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/Chanchal-Doijod/quickcommerce.git
+2. **Navigate to the project directory: Once the repository is cloned, navigate into the project folder:**
+   cd quickcommerce
+3. **nstall dependencies: Run the following command to install all necessary dependencies:**
+    npm install
+4. **Start the development server: Once the dependencies are installed, start the development server by running:**
+   npm start
+
+
