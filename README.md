@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# QuickCommerce
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+QuickCommerce is a comprehensive e-commerce platform designed to provide a seamless online shopping experience. Inspired by platforms like JioMart, it includes features such as category-based product browsing, detailed product pages, and a dynamic cart management system, all packaged within a user-friendly interface.
 
-## Available Scripts
+## Features Overview
 
-In the project directory, you can run:
+### 1. Home Page with Dynamic Content
+- The homepage showcases **banners**, **trending products**, and **popular offers** to attract user engagement.
+- Categories like Groceries, Electronics, and others are displayed prominently for easy navigation.
 
-### `npm start`
+### 2. Product Browsing and Navigation
+- **Category Navigation**: Users can browse products by category using the navbar.
+- **Product Details Page**:
+  - Displays product information, including price, offers, location, and description.
+  - Features a clean, responsive layout to enhance readability.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3. Cart Management
+- **Add to Cart**: Users can add products to the cart directly from product detail pages.
+- **View Cart**:
+  - Displays an order summary with product names, quantities, and total price.
+  - Enables users to review their selections before proceeding to checkout.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4. Responsive and User-Friendly Interface
+- Built with **React.js** and **Material-UI** to ensure a smooth and visually appealing user experience.
+- Fully responsive design for compatibility with desktop and mobile devices.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+### Frontend
+- **React.js**: For building dynamic and reusable components.
+- **Redux**: For state management to handle cart operations and product data efficiently.
+- **Material-UI**: For modern and responsive UI components.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Backend (Future Integration)
+- **Node.js** and **Express.js**: To handle API endpoints and server-side logic.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Database (Future Integration)
+- **MongoDB** or **MySQL**: For storing product data, user information, and orders.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Installation Instructions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
+Ensure that the following are installed on your system:
+- **Node.js** (v14 or higher)
+- **npm** (v6 or higher)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation Steps
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository**:
+   Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/Chanchal-Doijod/quickcommerce.git
